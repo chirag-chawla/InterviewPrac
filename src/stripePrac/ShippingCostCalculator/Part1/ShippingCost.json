@@ -1,0 +1,10 @@
+{
+  "US": [
+    { "product": "mouse", "cost": 550 },
+    { "product": "laptop", "cost": 1000 }
+  ],
+  "CA": [
+    { "product": "mouse", "cost": 750 },
+    { "product": "laptop", "cost": 1100 }
+  ]
+}
